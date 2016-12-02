@@ -12,7 +12,7 @@ public class MyNode {
   private MyNode left;
   private MyNode right;
   private int value;
-
+	TEST 1 förändring
   /**
    * Class constructor initializing this node's value.
    * 
