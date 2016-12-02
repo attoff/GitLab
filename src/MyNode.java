@@ -12,7 +12,7 @@ public class MyNode {
   private MyNode left;
   private MyNode right;
   private int value;
-
+	
   /**
    * Class constructor initializing this node's value.
    * 
@@ -21,7 +21,7 @@ public class MyNode {
   public MyNode(int value) {
     this.value = value;
   }
-
+	Test2 förändring
   /**
    * Gets the value of this node.
    *
