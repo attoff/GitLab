@@ -13,6 +13,7 @@ public class MyNode {
   private MyNode right;
   private int value;
 	Bob i farten
+	HEJSAN HOPPSAN
   /**
    * Class constructor initsializing this node's value.
    * 
