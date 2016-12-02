@@ -12,9 +12,9 @@ public class MyNode {
   private MyNode left;
   private MyNode right;
   private int value;
-
+	Bob i farten
   /**
-   * Class constructor initializing this node's value.
+   * Class constructor initsializing this node's value.
    * 
    * @param value The value of this node.
    */
